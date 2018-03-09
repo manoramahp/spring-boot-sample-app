@@ -11,6 +11,10 @@ public class Topic {
     String topicName;
     String category;
 
+    public Topic() {
+
+    }
+
     public Topic(String topicName, String category, int id) {
         this.topicName = topicName;
         this.category = category;
