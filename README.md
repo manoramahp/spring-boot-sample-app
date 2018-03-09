@@ -14,5 +14,8 @@ But for the other 20% we have to configure it as needed.
 
 * CrudRepository interface make it easy to perform crud operations on database without writing queries.
 
+* Spring boot actuator for monitoring. This is exposed on management.port in application.properties, 
+so that we can easily configure that port. The default is 8080. (http://localhost:8080/health, http://localhost:8080/beans, etc.)
+
 application.properties
 https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
