@@ -1,5 +1,6 @@
 package com.example.springboot.topic;
 
+import com.example.springboot.topic.Topic;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
