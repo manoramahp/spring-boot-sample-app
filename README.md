@@ -13,3 +13,6 @@ We just need to use the default comes with the Spring Boot.
 But for the other 20% we have to configure it as needed.
 
 * CrudRepository interface make it easy to perform crud operations on database without writing queries.
+
+application.properties
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
